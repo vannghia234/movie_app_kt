@@ -9,5 +9,4 @@ object RetrofitInstance {
     private val logging = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BODY
     }
-    private val
 }
